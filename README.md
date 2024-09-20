@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edimate (Edward Mutesasira)
-- 👀 I’m interested in Genomics and Bioinformatics
+- 👀 I’m interested in Genomics, Bioinformatics and AI
 - 🌱 I’m currently learning Data Science and Bioinformatics 
 
 <!---
